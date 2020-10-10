@@ -6,9 +6,7 @@ Basic idea of the program:
          2.1 Filter out the stop words
          2.2 Only keep nouns
      3. Load all the words(with some appearing multiple times) into the package wordcloud
-     4. That's it!
 
-@author: Dazhuang
 	 
 """
 
